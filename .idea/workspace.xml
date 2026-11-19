@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="13b74b40-a2a7-41fe-9b40-3ca71598a446" name="Changes" comment="add VCS configuration files for project setup" />
+    <list default="true" id="13b74b40-a2a7-41fe-9b40-3ca71598a446" name="Changes" comment="fix image path in README for correct display">
+      <change afterPath="$PROJECT_DIR$/startup-brochure-imgae.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -32,61 +36,61 @@
 }</component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.0" />
-      <entry key="MS500" value="1.0" />
-      <entry key="S2" value="1.000115183157527" />
-      <entry key="S5" value="1.09093799236634" />
-      <entry key="S10" value="1.8876848040419412" />
-      <entry key="S30" value="8.8132043265934" />
-      <entry key="S60" value="22.989760525889103" />
-      <entry key="M2" value="45.75802002192101" />
-      <entry key="M5" value="85.12276658307694" />
-      <entry key="M10" value="143.29409680083046" />
-      <entry key="M15" value="190.43615892091097" />
-      <entry key="M30" value="271.58587183413914" />
-      <entry key="H1" value="332.9761581725169" />
-      <entry key="H2" value="370.9990900525774" />
-      <entry key="H4" value="392.19378262251047" />
-      <entry key="D1" value="411.08170311814314" />
-      <entry key="W1" value="414.4372991212911" />
+      <entry key="MS100" value="3.894852164131823E-6" />
+      <entry key="MS500" value="0.08329792402549774" />
+      <entry key="S2" value="0.7325269058680705" />
+      <entry key="S5" value="1.7235212559922222" />
+      <entry key="S10" value="3.051276503192693" />
+      <entry key="S30" value="7.160887126282977" />
+      <entry key="S60" value="9.814032525670553" />
+      <entry key="M2" value="11.666316047935211" />
+      <entry key="M5" value="13.000985908002956" />
+      <entry key="M10" value="13.48884750669189" />
+      <entry key="M15" value="13.656587407514154" />
+      <entry key="M30" value="13.826957183113919" />
+      <entry key="H1" value="13.913164267459475" />
+      <entry key="H2" value="14.05391062383502" />
+      <entry key="H4" value="20.39449996558159" />
+      <entry key="D1" value="224.43910216850543" />
+      <entry key="W1" value="396.84575811995956" />
     </decayedCancelled>
     <decayedSelected>
-      <entry key="MS100" value="0.0" />
-      <entry key="MS500" value="2.134697840678029E-83" />
-      <entry key="S2" value="2.1494834356016978E-21" />
-      <entry key="S5" value="5.4067170358496736E-9" />
-      <entry key="S10" value="7.353038171973324E-5" />
-      <entry key="S30" value="0.04189436449017906" />
-      <entry key="S60" value="0.20468112880815129" />
-      <entry key="M2" value="0.45241698554337134" />
-      <entry key="M5" value="0.7281411253906116" />
-      <entry key="M10" value="0.8533118570549754" />
-      <entry key="M15" value="0.8996464147629692" />
-      <entry key="M30" value="0.9484969239607313" />
-      <entry key="H1" value="0.9739080675098295" />
-      <entry key="H2" value="0.9868678065018791" />
-      <entry key="H4" value="0.9934122037210332" />
-      <entry key="D1" value="0.9988990079397231" />
-      <entry key="W1" value="0.9998426411540212" />
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0" />
+      <entry key="S2" value="1.0" />
+      <entry key="S5" value="1.0" />
+      <entry key="S10" value="1.0" />
+      <entry key="S30" value="1.0" />
+      <entry key="S60" value="1.0" />
+      <entry key="M2" value="1.0" />
+      <entry key="M5" value="1.0" />
+      <entry key="M10" value="1.0" />
+      <entry key="M15" value="1.0" />
+      <entry key="M30" value="1.0000000000000042" />
+      <entry key="H1" value="1.0000000643350297" />
+      <entry key="H2" value="1.000253643508961" />
+      <entry key="H4" value="1.0159261894049116" />
+      <entry key="D1" value="1.5015935917309373" />
+      <entry key="W1" value="1.9061354888623105" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="2.3257763624119559E-4" />
-      <entry key="MS500" value="0.18763488718929636" />
-      <entry key="S2" value="0.6582703834814918" />
-      <entry key="S5" value="0.936823888288345" />
-      <entry key="S10" value="1.8072827983986206" />
-      <entry key="S30" value="8.822255987822453" />
-      <entry key="S60" value="23.165834192737297" />
-      <entry key="M2" value="46.18528987274292" />
-      <entry key="M5" value="85.83535338696203" />
-      <entry key="M10" value="144.13809596964487" />
-      <entry key="M15" value="191.32911466425236" />
-      <entry key="M30" value="272.5307063084854" />
-      <entry key="H1" value="333.94813324773656" />
-      <entry key="H2" value="371.9849620157849" />
-      <entry key="H4" value="393.18668898857203" />
-      <entry key="D1" value="412.08051666626045" />
-      <entry key="W1" value="415.4371295249074" />
+      <entry key="MS100" value="1.5754991994000956E-5" />
+      <entry key="MS500" value="0.17900249690711348" />
+      <entry key="S2" value="1.2849448530444634" />
+      <entry key="S5" value="2.5113349776984233" />
+      <entry key="S10" value="3.9384151377011998" />
+      <entry key="S30" value="8.12130817630723" />
+      <entry key="S60" value="10.79390073050922" />
+      <entry key="M2" value="12.656149239956632" />
+      <entry key="M5" value="13.996892374171535" />
+      <entry key="M10" value="14.486796022342972" />
+      <entry key="M15" value="14.655218683200555" />
+      <entry key="M30" value="14.826272281841687" />
+      <entry key="H1" value="14.91282174528414" />
+      <entry key="H2" value="15.053992677821803" />
+      <entry key="H4" value="21.410332176713503" />
+      <entry key="D1" value="225.9406375432375" />
+      <entry key="W1" value="398.75188021435764" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
@@ -166,7 +170,7 @@
       <updated>1794965715661</updated>
       <workItem from="1794965716672" duration="96000" />
       <workItem from="1794965821267" duration="1650000" />
-      <workItem from="1794967541389" duration="149000" />
+      <workItem from="1794967541389" duration="2204000" />
     </task>
     <task id="LOCAL-00001" summary="update README with project details for 2026-2 SU-StartUp competition">
       <option name="closed" value="true" />
@@ -192,7 +196,23 @@
       <option name="project" value="LOCAL" />
       <updated>1794967652682</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="add VCS configuration files for project setup">
+      <option name="closed" value="true" />
+      <created>1794967707549</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1794967707549</updated>
+    </task>
+    <task id="LOCAL-00005" summary="fix image path in README for correct display">
+      <option name="closed" value="true" />
+      <created>1794967760450</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1794967760450</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -201,6 +221,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="update README with project details for 2026-2 SU-StartUp competition" />
     <MESSAGE value="add VCS configuration files for project setup" />
-    <option name="LAST_COMMIT_MESSAGE" value="add VCS configuration files for project setup" />
+    <MESSAGE value="fix image path in README for correct display" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix image path in README for correct display" />
   </component>
 </project>
